@@ -1,5 +1,6 @@
 # jupyter-exploratio-
-Exploring Jupyter and GitHub basics.
+									**Exploring Jupyter and GitHub basics.**
+				 
 This lab session guides you through the foundational steps of using GitHub for version control and Jupyter Notebooks for interactive data analysis.
 
 Part 1: Setting Up and Exploring GitHub
